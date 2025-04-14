@@ -149,4 +149,4 @@ interact(interactive_plot, freq=(0.1, 5.0, 0.1))
 ```bash
 jupyter nbconvert --to notebook visualization_lab.ipynb
 ```
-![](photo/Screenshot.png)
+![](photos/Screenshot.png)
